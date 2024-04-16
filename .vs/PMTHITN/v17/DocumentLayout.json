@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|c:\\users\\admin\\onedrive - ueh.edu.vn\\desktop\\doan_opp\\pmthitn\\giangvien\\quanly\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\quanly\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\sinhvien\\frmsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\sinhvien\\frmsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\giangvien\\frmgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\frmgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\giangvien\\frmgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\frmgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\sinhvien\\frmsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\sinhvien\\frmsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\giangvien\\quanly\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\quanly\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\giangvien\\quanly\\frmbangdiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\quanly\\frmbangdiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\pmthitn\\giangvien\\quanly\\frmqlbaikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A30EFCA-980D-40BC-B120-552DD23DA4DA}|PMTHITN\\PMTHITN.csproj|solutionrelative:pmthitn\\giangvien\\quanly\\frmqlbaikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmsv.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\SinhVien\\frmsv.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\SinhVien\\frmsv.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\SinhVien\\frmsv.cs",
+              "RelativeToolTip": "PMTHITN\\SinhVien\\frmsv.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:23:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmsv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\SinhVien\\frmsv.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\SinhVien\\frmsv.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\SinhVien\\frmsv.cs [Design]",
+              "RelativeToolTip": "PMTHITN\\SinhVien\\frmsv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:23:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmbangdiem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.Designer.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.Designer.cs",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.Designer.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwHMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:20:03.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmbangdiem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:17:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmgv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\frmgv.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\frmgv.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\frmgv.cs [Design]",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\frmgv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:15:31.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmbangdiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs [Design]",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\QuanLy\\frmbangdiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:15:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmgv.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\frmgv.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\frmgv.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\frmgv.cs",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\frmgv.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwI4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:14:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmqlbaikiemtra.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmqlbaikiemtra.cs",
+              "RelativeDocumentMoniker": "PMTHITN\\GiangVien\\QuanLy\\frmqlbaikiemtra.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ueh.edu.vn\\Desktop\\DOAN_OPP\\PMTHITN\\GiangVien\\QuanLy\\frmqlbaikiemtra.cs",
+              "RelativeToolTip": "PMTHITN\\GiangVien\\QuanLy\\frmqlbaikiemtra.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:13:54.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmHome.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmquenmk.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmbangdiem.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmdssinhvientronglop.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmqlbaikiemtra.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmqllophoc.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmqlmonhoc.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmqlnhcauhoi.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmtaobaikiemtra.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmtaocauhoi.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.SinhVien.frmbaithi.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.SinhVien.frmcauhoi.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.frmsv.resources
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ADMIN\Desktop\DOANOPP3\OOP_PROJECT\PMTHITN\obj\Debug\PMTHITN.pdb
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\PMTHITN.exe.config
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\PMTHITN.exe
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\PMTHITN.pdb
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmHome.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmlogin.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmquenmk.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmbangdiem.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmdssinhvientronglop.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmqlbaikiemtra.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmqllophoc.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmqlmonhoc.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmqlnhcauhoi.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmtaobaikiemtra.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.GiangVien.Quanly.frmtaocauhoi.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmgv.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.SinhVien.frmbaithi.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.SinhVien.frmcauhoi.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frminfo.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.frmsv.resources
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.csproj.Up2Date
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.exe
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\DOAN_OPP\PMTHITN\obj\Debug\PMTHITN.pdb

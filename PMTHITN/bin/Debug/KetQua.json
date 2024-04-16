@@ -1,0 +1,43 @@
+﻿[
+  {
+    "MaKQ": 1,
+    "MaSV": "SV001",
+    "Ketqua": [
+      {
+        "CauHoi": {
+          "MaCH": "CH001",
+          "NoiDung": "Ở Việt Nam, cuối năm 1928, các thành viên của tổ chức nào sau đây thực hiện chủ trương “vô sản hóa”?\r\n\r\nA. Đảng Lập hiến.\r\n\r\nB. Việt Nam Quốc dân đảng.\r\n\r\nC. Hội Việt Nam Cách mạng Thanh niên.\r\n\r\nD. Việt Nam nghĩa đoàn.",
+          "DapAn": "C"
+        },
+        "Traloi": "C"
+      },
+      {
+        "CauHoi": {
+          "MaCH": "CH002",
+          "NoiDung": "Lý luận nào sau đây được cán bộ của Hội Việt Nam Cách mạng thanh niên truyền bá vào Việt Nam?\r\n\r\nA. Lý luận Mác- Lênin\r\n\r\nB. Lý luận đấu tranh giai cấp\r\n\r\nC. Lý luận giải phóng dân tộc\r\n\r\nD. Lý luận cách mạng vô sản",
+          "DapAn": "C"
+        },
+        "Traloi": "B"
+      },
+      {
+        "CauHoi": {
+          "MaCH": "CH003",
+          "NoiDung": "Báo Thanh niên và tác phẩm Đường Kách mệnh đã trang bị lí luận gì cho các cán bộ của Hội Việt Nam cách mạng thanh niên\r\n\r\nA. lí luận Mác – Lê nin\r\n\r\nB. tư tưởng dân chủ tư sản\r\n\r\nC. lí luận cách mạng giải phóng dân tộc  \r\n\r\nD. chủ nghĩa quân phiệt hiếu chiến",
+          "DapAn": "C"
+        },
+        "Traloi": "C"
+      },
+      {
+        "CauHoi": {
+          "MaCH": "CH004",
+          "NoiDung": "Đâu là cơ quan ngôn luận của Đông Dương Cộng sản đảng?\r\n\r\nA. Báo Thanh niên B. Báo Đỏ\r\n\r\nC. Báo Búa liềm\r\n\r\nD. Báo Giải phóng",
+          "DapAn": "C"
+        },
+        "Traloi": "C"
+      },
+      null
+    ],
+    "diem": 6,
+    "ThoiGianNop": "4/17/2024 2:36:00 AM"
+  }
+]
